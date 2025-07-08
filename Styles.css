@@ -1,0 +1,62 @@
+@media (width:700px) {
+   html{
+    background-color: black;
+   }
+}
+ body{
+  background-color: black;
+  color: rgb(54, 12, 242);
+}
+header{
+   background-color:rgb(13, 13, 13);
+    color: rgb(215, 204, 204);
+    text-align: center;
+    top: 0;
+    
+}
+.hazard{
+    padding: 10px;
+    border-radius:50px;
+    display:grid;
+    float: left;
+    left: 30px;
+    color:rgb(10, 227, 169)
+}
+img{
+    width: 300px;
+  display: grid;
+  border-radius: 10%;;
+}
+.heading3{
+    text-align: center;
+  
+}
+li, .paragraph{
+ 
+    padding: 20px 30px;
+    max-width: 400px;
+    margin: 0px auto;
+    letter-spacing: normal;
+ }
+li{
+     color: white;
+     
+
+}
+.paragraph{
+     color: white;
+}
+#explosion{
+    width: 20px;
+    vertical-align: left;
+
+}
+.spoof li {
+    display: flex;
+    gap: 4px;
+}
+ h1{
+    font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+ }
