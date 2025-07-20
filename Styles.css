@@ -3,6 +3,18 @@
     background-color: black;
    }
 }
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body {
+  overflow-x: hidden; 
+}
+@media (max-width: 768px) {
+ body {
+    width: 100vw;
+  }
+}
  body{
   background-color: black;
   color: rgb(54, 12, 242);
